@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL,Power BI**
 
-- 👨‍💻 All of my projects are available at [https://www.shakyaanish.com.np/](https://www.anish-shakya.com.np/)
+- 👨‍💻 All of my projects are available at [https://www.shakyaanish.com.np/](https://www.shakyaanish.com.np/)
 
 - 💬 Ask me about **Excel,SQL**
 
