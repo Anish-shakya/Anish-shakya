@@ -26,5 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish-shakya&show_icons=true&locale=en" alt="anish-shakya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-shakya&" alt="anish-shakya" /></p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30428285-8776-4ba6-8427-95334ef21384" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
