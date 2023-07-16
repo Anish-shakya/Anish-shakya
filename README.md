@@ -10,6 +10,8 @@
 - 💬 Ask me about **Excel,SQL**
 
 - 📫 How to reach me **shakyaanish69@gmail.com**
+  
+- 📱 Join My Data Analytics **Discord Server** https://discord.gg/yaVWQr5DCT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
