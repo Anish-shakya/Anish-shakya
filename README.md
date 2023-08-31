@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="anish-shakya" /> </p>
 
-- 🌱 I’m currently learning **SQL and Tableau**
+- 🌱 I’m currently learning **SQL For Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://www.shakyaanish.com.np/](https://www.shakyaanish.com.np/)
 
