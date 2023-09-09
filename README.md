@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.shakyaanish.com.np/](https://www.shakyaanish.com.np/)
 
-- 💬 Ask me about  **Excel,SQL**
+- 💬 Ask me about **Excel,SQL**
 
 - 📫 How to reach me **shakyaanish69@gmail.com**
   
