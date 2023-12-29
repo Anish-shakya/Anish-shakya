@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Power BI and Python For Data Analysis at DataCamp.**
   
+- 🏢 Currently Working As **Data Analytics Intern at Fintech Solutions.**
+  
 - 👨‍💻 All of my projects are available at [https://www.shakyaanish.com.np/](https://www.shakyaanish.com.np/)
 
 - 💬 Ask me about **Excel,SQL,Data Analytics**
