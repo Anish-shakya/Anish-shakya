@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Excel, SQL, Data Analytics, Business Intelligence, Power BI**
 
-- 📫 How to reach me "shakya.anish58@gmail.com**
+- 📫 How to reach me **shakya.anish58@gmail.com**
   
 - 📱 Join My Data Analytics **Discord Server** https://discord.gg/yaVWQr5DCT
   
