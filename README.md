@@ -8,9 +8,9 @@
   
 - 👨‍💻 All of my projects are available at [https://www.shakyaanish.com.np/](https://www.shakyaanish.com.np/)
 
-- 💬 Ask me about **Excel,SQL,Data Analytics, Business Intelligence, Power BI**
+- 💬 Ask me about **Excel, SQL, Data Analytics, Business Intelligence, Power BI**
 
-- 📫 How to reach me **shakyaanish69@gmail.com**
+- 📫 How to reach me "shakya.anish58@gmail.com**
   
 - 📱 Join My Data Analytics **Discord Server** https://discord.gg/yaVWQr5DCT
   
