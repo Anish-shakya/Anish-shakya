@@ -31,8 +31,6 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 </div>
 
+<p><img align="Right" src="https://github-readme-stats.vercel.app/api?username=anish-shakya&show_icons=true&locale=en" alt="anish-shakya" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish-shakya&show_icons=true&locale=en" alt="anish-shakya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-shakya&" alt="anish-shakya" /></p>
+<p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-shakya&" alt="anish-shakya" /></p>
