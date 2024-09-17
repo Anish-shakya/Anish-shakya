@@ -31,8 +31,6 @@
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" title="Excel"/></code>
 	<code><img width="100" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" title="Power BI"/></code>
 	<code><img width="100" src="https://static.javatpoint.com/tutorial/ssis/images/ssis-tutorial.jpg" alt="SSIS" title="SSIS"/></code>
-
-
 <p><img align="Left" src="https://github-readme-stats.vercel.app/api?username=anish-shakya&show_icons=true&locale=en" alt="anish-shakya" /></p>
 
 <p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-shakya&" alt="anish-shakya" /></p>
