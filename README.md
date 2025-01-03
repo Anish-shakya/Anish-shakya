@@ -15,10 +15,12 @@
 - 📱 Join My Data Analytics **Discord Server** https://discord.gg/yaVWQr5DCT
   
 <h3 align="left">Connect With Me:</h3>  
+
 <p align="left">
 <a href="https://linkedin.com/in/anish-shakya-190a6822b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish shakya" height="30" width="40" /></a>
 <a href="https://fb.com/shakya.anish.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="अनिष शाक्य" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
@@ -31,5 +33,6 @@
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" title="Excel"/></code>
 	<code><img width="100" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" title="Power BI"/></code>
 	<code><img width="100" src="https://static.javatpoint.com/tutorial/ssis/images/ssis-tutorial.jpg" alt="SSIS" title="SSIS"/></code>
+ 
 <p><img align="Left" src="https://github-readme-stats.vercel.app/api?username=anish-shakya&show_icons=true&locale=en" alt="anish-shakya" /></p>
 <p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-shakya&" alt="anish-shakya" /></p>
