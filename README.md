@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Power BI**
   
-- 🏢 Currently Working As **Business Intelligence Analyst @ ISEND GLOBAL**
+- 🏢 Currently Working As **Data Analyst @ OmnicomMediaGroup Nepal**
   
 - 👨‍💻 All of my projects are available at [https://www.shakyaanish.com.np/](https://www.shakyaanish.com.np/)
 
