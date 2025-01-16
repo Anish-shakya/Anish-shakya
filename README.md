@@ -7,7 +7,7 @@
   
 - 🏢 Currently Working As **Data Analyst @ OmnicomMediaGroup Nepal**
   
-- 👨‍💻 All of my projects are available at [https://www.shakyaanish.com.np/](https://www.shakyaanish.com.np/)
+- 👨‍💻 View my portfolio at [https://www.shakyaanish.com.np/](https://www.shakyaanish.com.np/)
 
 - 💬 Ask me about **Excel, SQL, Data Analytics, Business Intelligence, Power BI**
 
