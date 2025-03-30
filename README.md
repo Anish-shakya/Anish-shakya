@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="anish-shakya" /> </p> 
 
 - 🌱 I’m currently learning **Power BI, Looker Studio, Google Search Console,GA4,Meta Ads,Google Ads,and Supermetrics**
+
   
 - 🏢 Currently Working As **Data Analyst @ OmnicomMediaGroup Nepal**
   
