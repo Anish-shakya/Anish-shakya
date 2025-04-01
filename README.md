@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Power BI, Looker Studio, Google Search Console,GA4,Meta Ads,Google Ads,and Supermetrics**
 
-  
 - 🏢 Currently Working As **Data Analyst @ OmnicomMediaGroup Nepal**
   
 - 👨‍💻 View my portfolio at [https://www.shakyaanish.com.np/](https://www.shakyaanish.com.np/)
