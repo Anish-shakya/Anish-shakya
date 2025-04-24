@@ -43,6 +43,6 @@
 <table style="border:none;">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=anish-shakya&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=anish-shakya" alt="GitHub Streak" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=anish-shakya" alt="GitHub Streak"/></td>
   </tr>
 </table>
